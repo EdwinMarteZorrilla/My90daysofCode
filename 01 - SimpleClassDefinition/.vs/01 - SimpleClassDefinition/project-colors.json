@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2c73694e-aa28-4418-8adf-e0c51f0c5504": {
+      "ProjectGuid": "2c73694e-aa28-4418-8adf-e0c51f0c5504",
+      "DisplayName": "01 - SimpleClassDefinition",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "2142a310-0c0a-47da-bdab-f4026f768aaf": {
+      "ProjectGuid": "2142a310-0c0a-47da-bdab-f4026f768aaf",
+      "DisplayName": "02 MultipleObjtecClass",
+      "ColorIndex": 1
+    },
+    "5b34b86c-af59-460d-af42-3202625a3ae8": {
+      "ProjectGuid": "5b34b86c-af59-460d-af42-3202625a3ae8",
+      "DisplayName": "03.1 Methods Inisde",
+      "ColorIndex": 2
+    },
+    "fd412028-23ed-424b-b338-8d62d1473188": {
+      "ProjectGuid": "fd412028-23ed-424b-b338-8d62d1473188",
+      "DisplayName": "03.2 Methods Outside",
+      "ColorIndex": 3
+    },
+    "84daf31b-0e75-4f90-8098-a5358bea05e4": {
+      "ProjectGuid": "84daf31b-0e75-4f90-8098-a5358bea05e4",
+      "DisplayName": "03.3 Methods parametes",
+      "ColorIndex": 4
+    },
+    "0c7e000a-2ae5-4171-92dc-0fc762bc1eab": {
+      "ProjectGuid": "0c7e000a-2ae5-4171-92dc-0fc762bc1eab",
+      "DisplayName": "04.1 Constuctors",
+      "ColorIndex": 5
+    },
+    "5b1ffa49-a369-4fe8-abf0-315fdcfe6ab9": {
+      "ProjectGuid": "5b1ffa49-a369-4fe8-abf0-315fdcfe6ab9",
+      "DisplayName": "04.2 constructor Parameters",
+      "ColorIndex": 6
+    },
+    "ff139370-32b7-4744-b37a-237c5daf5563": {
+      "ProjectGuid": "ff139370-32b7-4744-b37a-237c5daf5563",
+      "DisplayName": "04.3 Constructor OusideClasss",
+      "ColorIndex": 7
+    },
+    "31231cd7-6584-46db-900a-3810b8000752": {
+      "ProjectGuid": "31231cd7-6584-46db-900a-3810b8000752",
+      "DisplayName": "05 Encasuplation",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}
